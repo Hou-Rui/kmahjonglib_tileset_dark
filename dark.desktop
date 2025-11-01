@@ -1,0 +1,20 @@
+[KMahjonggTileset]
+Name=Dark
+Name[zh_CN]=暗色
+Description=Art inspired by real Japanese Mahjongg tiles (dark variant)
+Description[zh_CN]=艺术灵感源于真实的日本麻将牌（暗色变种）
+VersionFormat=1
+Author=Hou Rui
+AuthorEmail=houruinus@gmail.com
+Website=https://commits.kde.org/libkmahjongg
+BugReportUrl=https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=libkmahjongg
+Version=1.2
+Copyright=2025 Hou Rui
+License=GPL-2.0-or-later
+FileName=dark.svg
+LevelOffsetX=12
+LevelOffsetY=12
+TileFaceHeight=89
+TileFaceWidth=69
+TileHeight=116
+TileWidth=96
